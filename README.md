@@ -1,6 +1,6 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [Cosmic Terminal](https://foobar.com)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [Cosmic Terminal](https://foobar.com).
 
 ![Screenshot](./screenshot.png)
 
