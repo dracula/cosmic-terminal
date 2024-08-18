@@ -5,6 +5,7 @@
 ### 1. Clone Repo:
 
     git clone https://github.com/eosdev-x/Dracula_for_Cosmic.git
+- Or use this [link](https://github.com/eosdev-x/Dracula_for_Cosmic/archive/refs/heads/main.zip) to download the repo manually.
 
 ### 2. Locate "View":
 
