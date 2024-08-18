@@ -1,19 +1,20 @@
-### [Foobar](https://foobar.com)
+# [Cosmic Terminal or cosmic-term](https://github.com/pop-os/cosmic-term)
 
-#### Install using Git
+## Install
 
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
+### 1. Clone Repo:
 
-```bash
-git clone https://github.com/dracula/foobar.git
-```
+    git clone https://github.com/eosdev-x/Dracula_for_Cosmic.git
 
-#### Install manually
+### 2. Locate "View":
 
-Download using the [GitHub `.zip` download](https://github.com/dracula/foobar/archive/main.zip) option and unzip them.
+- In the top left corner of your screen, find the menu item labeled "View".
 
-#### Activating theme
+### 3. Access Color Schemes:
 
-1. Do this;
-2. Then that;
-3. Boom! It's working ✨
+- Click on "View", and from the dropdown menu, select "Color schemes".
+
+### 4. Import the File:
+
+- In the color schemes window, look for an "Import" button and click it.
+  Find the "Dracula_for_Cosmic.ron" file you downloaded earlier and select it to import the color scheme.
