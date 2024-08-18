@@ -29,9 +29,9 @@
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
 
-| [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) | [![Lucas de França](https://github.com/luxonauta.png?size=100)](https://github.com/luxonauta) |
-| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| [Zeno Rocha](https://github.com/zenorocha)                                               | [Lucas de França](https://github.com/luxonauta)                                               |
+| [![eosdev](https://github.com/eosdev-x.png?size=100)](https://github.com/eosdev-x) |
+| ---------------------------------------------------------------------------------------- |
+| [eosdev](https://github.com/eosdev-x)                                               |                                             |
 
 ## Community
 
