@@ -12,15 +12,15 @@
 
 ### 2. Locate "View":
 
-  In the top left corner of your screen, find the menu item labeled "View".
+- In the top left corner of your screen, find the menu item labeled "View".
 
 ### 3. Access Color Schemes:
 
-  Click on "View", and from the dropdown menu, select "Color schemes".
+- Click on "View", and from the dropdown menu, select "Color schemes".
 
 ### 4. Import the File:
 
-  In the color schemes window, look for an "Import" button and click it.
+- In the color schemes window, look for an "Import" button and click it.
   Find the "Dracula_for_Cosmic.ron" file you downloaded earlier and select it to import the color scheme.
     
 ## All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
