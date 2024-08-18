@@ -6,7 +6,7 @@
 
 ## Install
 
-### 1. Clone Repo
+### 1. Clone Repo:
 
     git clone https://github.com/eosdev-x/Dracula_for_Cosmic.git
 
