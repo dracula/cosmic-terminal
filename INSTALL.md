@@ -1,22 +1,21 @@
-# [Cosmic Terminal or cosmic-term](https://github.com/pop-os/cosmic-term)
+# Dracula for Cosmic Terminal
 
-## Install
+### [Cosmic Terminal](https://github.com/pop-os/cosmic-term)
 
-### 1. Clone Repo:
+#### Install using Git
 
-    git clone https://github.com/eosdev-x/Dracula_for_Cosmic.git
+If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
-- Or use this [link](https://github.com/eosdev-x/Dracula_for_Cosmic/archive/refs/heads/main.zip) to download the repo manually.
+```bash
+   git clone https://github.com/dracula/Dracula_for_Cosmic.git
+```
 
-### 2. Locate "View":
+#### Install manually
 
-- In the top left corner of your screen, find the menu item labeled "View".
+Download using the [GitHub `.zip` download](https://github.com/dracula/cosmic-terminal/archive/refs/heads/main.zip) option and unzip them.
 
-### 3. Access Color Schemes:
+#### Activating theme
 
-- Click on "View", and from the dropdown menu, select "Color schemes".
-
-### 4. Import the File:
-
-- In the color schemes window, look for an "Import" button and click it.
-  Find the "Dracula_for_Cosmic.ron" file you downloaded earlier and select it to import the color scheme.
+1. Open Cosmic Terminal and navigate to: `View > Color schemes`
+2. Click `Import` and select `Dracula_for_Cosmic.ron`
+3. Boom! It's working ✨

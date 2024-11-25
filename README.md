@@ -6,32 +6,15 @@
 
 ## Install
 
-### 1. Clone Repo:
-
-    git clone https://github.com/eosdev-x/Dracula_for_Cosmic.git
-
-### 2. Locate "View":
-
-- In the top left corner of your screen, find the menu item labeled "View".
-
-### 3. Access Color Schemes:
-
-- Click on "View", and from the dropdown menu, select "Color schemes".
-
-### 4. Import the File:
-
-- In the color schemes window, look for an "Import" button and click it.
-  Find the "Dracula_for_Cosmic.ron" file you downloaded earlier and select it to import the color scheme.
-
-## All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+All instructions can be found at [draculatheme.com/cosmic-terminal](https://draculatheme.com/cosmic-terminal).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/cosmic-terminal/graphs/contributors).
 
-| [![eosdev](https://github.com/eosdev-x.png?size=100)](https://github.com/eosdev-x) |
-| ---------------------------------------------------------------------------------- | --- |
-| [eosdev](https://github.com/eosdev-x)                                              |     |
+| [![eosdev-x](https://github.com/eosdev-x.png?size=100)](https://github.com/eosdev-x) |
+| ------------------------------------------------------------------------------------ |
+| [eosdev-x](https://github.com/eosdev-x)                                              |
 
 ## Community
 
